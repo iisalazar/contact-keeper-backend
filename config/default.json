@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://wyvern:wyvern123@contact-keeper-m6ul7.mongodb.net/test?retryWrites=true&w=majority"
+}
